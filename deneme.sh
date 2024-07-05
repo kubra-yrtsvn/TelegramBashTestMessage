@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #Bot token ve chat ID bilgilerini yaz
-BOT_TOKEN="7207999152:AAGiJRGHJDx6lbzuOQMK9Og6FLPeeUAcVPk" 
-CHAT_ID="5969240980"
+BOT_TOKEN="bot_token" 
+CHAT_ID="chat_id"
 MESSAGE="Merhaba bu bir test mesajıdır."
 
 #Mesaj URL'i oluştur
